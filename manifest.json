@@ -1,0 +1,30 @@
+{
+  "id": "./",
+  "name": "Benjamin",
+  "short_name": "Benjamin",
+  "description": "A local-first personal expense tracker for logging spending and reviewing clear analytics.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#f7f4ef",
+  "theme_color": "#d4ec7d",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "finance",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
